@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Bozhena Balzhanova</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Bozhena.
+    \n\nMy name is quite unusual and i like it.
+    \nI am 21 years old. I was born in Krasnodar and I have lived there all my live.
+    \n\nI finished school in 2017. I am a student of Kuban State Agrarian University. My major is Applied Informatics.
+    \nAlso I work for KubSAU. I am laboratory assistant of the Department of system analysis and information processing.
+    \n\nI go to the gym or do sports home when I have some free time.
+    \nWhat about my character, I am a kind person.
+    \nComfort in everything is very important to me. In communication with people and in my attitude.
+    \n\nNow I would like to tell you about my hobbies. I prefer active and healthy recreation. For example, go on a SAP-surfing, play team sports, or take a walk in the woods or in the mountains.
+    \n\nIf you have to choose between a cat and a dog, I will choose a dog.
+    \n\nI like to learn something new in my professional life and learn more about this world every day.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
